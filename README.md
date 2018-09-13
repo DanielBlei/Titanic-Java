@@ -4,7 +4,6 @@ Predicting survival based on Titanic Datase from Kaggle.
 Training Model Evaluation:
 
 === Model Trained ===
-
 Precision: 0.9467084639498433
 Recall: 0.8830409356725146
 F-Score: 0.913767019667171
