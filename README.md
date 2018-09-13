@@ -1,5 +1,7 @@
 # Titanic-Java
 
+#### Predicting survival from Titanic dataset, using JDK 10 and WEKA library.
+
 #### === Training Model Evaluation ===
 ##### Precision: 0.9467084639498433
 ##### Recall: 0.8830409356725146
