@@ -11,7 +11,7 @@
 
 #### === Confusion Matrix ===
 
-#####   a   b   
+#####   a   b   <-- classified as
 ##### 532  17 |   a = 0
 #####  40 302 |   b = 1
 
