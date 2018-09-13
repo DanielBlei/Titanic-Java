@@ -1,5 +1,5 @@
 # Titanic-Java
-### Predicting survival based on Titanic Dataset from Kaggle.
+### Predicting survival from Titanic Dataset, using WEKA library.
 
 #### === Model Trained ===
 ##### Precision: 0.9467084639498433
